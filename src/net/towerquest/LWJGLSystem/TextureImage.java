@@ -4,8 +4,8 @@ import java.nio.ByteBuffer;
 
 import org.lwjgl.opengl.GL11;
 
-import net.towerquest.towerquest.system.Image;
-import net.towerquest.towerquest.util.Color;
+import net.towerquest.engine.system.Image;
+import net.towerquest.engine.util.Color;
 
 public class TextureImage implements Image {
 	ByteBuffer imageData;

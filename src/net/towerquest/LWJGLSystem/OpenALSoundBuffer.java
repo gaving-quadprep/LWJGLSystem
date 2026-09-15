@@ -1,6 +1,6 @@
 package net.towerquest.LWJGLSystem;
 
-import net.towerquest.towerquest.system.Sound;
+import net.towerquest.engine.system.Sound;
 
 public class OpenALSoundBuffer implements Sound {
 
